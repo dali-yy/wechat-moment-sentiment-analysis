@@ -1,0 +1,24 @@
+python环境安装：
+https://www.runoob.com/python/python-install.html
+
+java环境安装：
+https://www.runoob.com/java/java-environment-setup.html
+
+Appium+Android SDK安装：
+https://www.cnblogs.com/soundcode/p/12682366.html
+
+相关python软件包：
+jieba
+
+pytorch
+
+ Appium-Python-Client
+
+pandas
+
+numpy
+
+安装命令：pip install 包名
+
+
+程序运行流程：首先用USB连接手机，打开手机的开发者模式，并打开USB调试，之后再打开Appium，最后运行main.py文件即可
